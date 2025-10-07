@@ -1,4 +1,4 @@
-#Git Assignment
+# Git Assignment
 
 * Name: Niamh Hickey
 * Student Number: N.Hickey10
